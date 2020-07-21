@@ -1,3 +1,3 @@
-# Custom Checkboxes
-A checkbox is mostly used for  single of multiple itemgit  seletions. Knowing how to build and 
-design custom checkboxes will give you complete control over the design and functionality of the way checkboxes behave regardless of the browser environment being viewed on, without requiring any third party library to get the job done.
+# Contact form with Ajax and php
+A modern HTML5 contact form, that uses some new HTML5 features, combined with Ajax and Php.
+Everything happens without reloading the page or navigating to another document to pass the data. You can use this snippets code on any site that processes php, and you can modify it for any other purposes very easily.
