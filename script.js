@@ -13,7 +13,7 @@ function submitForm(){
     //new http request object
     let ajax = new XMLHttpRequest();
     ajax.open('post', 'parser.php');
-    ajax.onreadystatechange = () => {
+    ajax.onreadystatechange = function () {
         if (ajax.readyState == 4 && ajax.status == 200) {
             if (ajax.responseText == "success") {
                 _('my_form').innerHTML = '<h2>Thanks ' + _('n').value + ', your message has been sent</h2>';
