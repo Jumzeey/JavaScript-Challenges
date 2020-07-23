@@ -1,2 +1,2 @@
-# Detect user browser with javascript.
-snipppets of codes to help detect  a uses browser
+# Drag and drop with javascript.
+In this snippets, you will get to know how to use javascript for drag and drop functionalities, you will also be able to read the contents dropped and send to a server or do whatsoever you want with it.
