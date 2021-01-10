@@ -1,3 +1,2 @@
-# Contact form with Ajax and php
-A modern HTML5 contact form, that uses some new HTML5 features, combined with Ajax and Php.
-Everything happens without reloading the page or navigating to another document to pass the data. You can use this snippets code on any site that processes php, and you can modify it for any other purposes very easily.
+# working with localStorage
+In this snippets, we will explore javascript's storage interface. You can use web storage to create shopping cart applications for online stores, allow your visitors to change your websites theme and remember their theme choice from page to page, storing certain details about a user, a hundred of programming task that might require your pages or applications to remember things about a user or for the user. It can aslo help you cut down on request for database data as the user goes from page to page in yoyr website. You can think of it as a data cache that has a 5mb storage limit.
